@@ -1,5 +1,4 @@
-# alx-project-nexus
-A documentation hub for major learnings from the ProDev Frontend Engineering program.
+ALX Project Nexus
 
 Overview
 
@@ -51,7 +50,7 @@ For discussions and knowledge sharing, join the ProDev Project Nexus community.
 Getting Started
 To explore the repository and its resources:
 
-Clone the repository below:
+Clone the repository:
 
 git clone https://github.com/NozaHeaven/alx-project-nexus.git
 
